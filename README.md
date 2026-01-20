@@ -26,13 +26,13 @@ The system provides secure, role-based access for **Admin**, **Faculty**, and **
 ## 📷 Screenshots
 
 ### Admin Dashboard
-![Admin Dashboard](screenshots/admin_dashboard.png)
+![Admin Dashboard](Screenshots/admin_dashboard.png)
 
 ### Faculty Dashboard
-![Faculty Dashboard](screenshots/faculty_dashboard.png)
+![Faculty Dashboard](Screenshots/faculty_dashboard.png)
 
 ### Student Dashboard
-![Student Dashboard](screenshots/student_dashboard.png)
+![Student Dashboard](Screenshots/student_dashboard.png)
 
 ---
 
