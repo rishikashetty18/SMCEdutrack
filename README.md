@@ -1,10 +1,57 @@
-# JavaScript-Crud-Operation
-Form Submission Using JavaScript, CSS &amp; Html
+# 🎓 SMC EduTrack – College Academic Management System
 
-Output Screens
+SMC EduTrack is a web-based **College Academic Management System** developed as a **Final BCA Project** to automate and manage academic activities such as student management, faculty management, subject allocation, and result processing.
 
-![jsCapture](https://user-images.githubusercontent.com/66914300/131905548-df5878da-4dc5-4f24-bf49-89d3399170a1.JPG)
+The system reduces manual work, improves accuracy, and provides secure role-based access for Admin, Faculty, and Students.
 
+---
 
-![Screenshot (169)](https://user-images.githubusercontent.com/66914300/131905557-ec99cc31-20df-4704-b36f-3e44e9842a3b.png)
+## 📌 Project Description
 
+SMC EduTrack provides separate dashboards for **Admin**, **Faculty**, and **Students** to efficiently manage academic information in a centralized and secure manner.
+
+---
+
+## 🧩 Modules & Features
+
+### 👨‍💼 Admin
+- Manage students and faculty
+- Assign subjects to faculty
+- Manage courses, semesters, and subjects
+
+### 👨‍🏫 Faculty
+- View assigned subjects and classes
+- Enter and update student marks
+
+### 👨‍🎓 Student
+- View academic results
+
+---
+
+## 🛠️ Technologies Used
+
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript  
+- **Backend:** PHP  
+- **Database:** MySQL  
+- **Server:** XAMPP (Apache)
+
+---
+
+## ⚙️ Installation
+
+1. Install XAMPP  
+2. Move project folder to `htdocs/`  
+3. Import database using phpMyAdmin  
+4. Start Apache and MySQL  
+5. Run: `http://localhost/SMC-EduTrack/`
+
+---
+
+## 🎓 Academic Details
+
+- **Project Type:** BCA Final Year Project  
+- **Domain:** Web Development / Academic Management System  
+
+---
+
+⭐ Developed for educational purposes.
