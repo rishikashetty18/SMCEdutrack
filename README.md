@@ -1,79 +1,57 @@
 # 🎓 SMC EduTrack – College Academic Management System
 
-SMC EduTrack is a web-based **College Academic Management System** developed to manage and automate academic activities such as student management, faculty management, subject allocation, and result processing.
+SMC EduTrack is a web-based **College Academic Management System** developed as a **Final BCA Project** to automate and manage academic activities such as student management, faculty management, subject allocation, and result processing.
 
-This project is developed as a **Final BCA Project** with the aim of reducing manual work, improving accuracy, and providing secure role-based access to academic information.
+The system reduces manual work, improves accuracy, and provides secure role-based access for Admin, Faculty, and Students.
 
 ---
 
 ## 📌 Project Description
 
-SMC EduTrack provides a centralized platform for **Admin**, **Faculty**, and **Students**, each having separate dashboards and controlled access to features relevant to their roles.
-
-The system ensures transparency, data security, and efficient academic management in educational institutions.
+SMC EduTrack provides separate dashboards for **Admin**, **Faculty**, and **Students** to efficiently manage academic information in a centralized and secure manner.
 
 ---
 
 ## 🧩 Modules & Features
 
-### 👨‍💼 Admin Module
-- Secure admin login
-- Add, view, and manage students
-- Add, view, and manage faculty
+### 👨‍💼 Admin
+- Manage students and faculty
 - Assign subjects to faculty
 - Manage courses, semesters, and subjects
-- View academic records
 
-### 👨‍🏫 Faculty Module
-- Secure faculty login
+### 👨‍🏫 Faculty
 - View assigned subjects and classes
 - Enter and update student marks
-- View student performance
-- Role-based access control
 
-### 👨‍🎓 Student Module
-- Secure student login
-- View personal profile
-- View subject-wise results
-- Access academic information
+### 👨‍🎓 Student
+- View profile and academic results
 
 ---
 
 ## 🛠️ Technologies Used
 
-### Frontend
-- HTML5  
-- CSS3  
-- Bootstrap  
-- JavaScript  
-
-### Backend
-- PHP  
-
-### Database
-- MySQL  
-
-### Server
-- Apache (XAMPP)
+- **Frontend:** HTML, CSS, Bootstrap, JavaScript  
+- **Backend:** PHP  
+- **Database:** MySQL  
+- **Server:** XAMPP (Apache)
 
 ---
 
-## 🗄️ Database Overview
+## ⚙️ Installation
 
-The project uses MySQL with the following main tables:
-- `student`
-- `faculty`
-- `subjects`
-- `result`
-- `admin`
-
-The database is designed to maintain data integrity and support efficient academic operations.
+1. Install XAMPP  
+2. Move project folder to `htdocs/`  
+3. Import database using phpMyAdmin  
+4. Start Apache and MySQL  
+5. Run: `http://localhost/SMC-EduTrack/`
 
 ---
 
-## ⚙️ Installation & Setup
+## 🎓 Academic Details
 
-1. Install **XAMPP**
-2. Clone the repository:
-   ```bash
-   git clone https://github.com/your-github-username/SMCEduTrack.git
+- **Project Type:** MCA Final Year Project  
+- **Domain:** Web Development / Academic Management System  
+
+---
+
+⭐ Developed for educational purposes.
