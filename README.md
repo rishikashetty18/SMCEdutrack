@@ -24,7 +24,7 @@ SMC EduTrack provides separate dashboards for **Admin**, **Faculty**, and **Stud
 - Enter and update student marks
 
 ### 👨‍🎓 Student
-- View profile and academic results
+- View academic results
 
 ---
 
@@ -49,7 +49,7 @@ SMC EduTrack provides separate dashboards for **Admin**, **Faculty**, and **Stud
 
 ## 🎓 Academic Details
 
-- **Project Type:** MCA Final Year Project  
+- **Project Type:** BCA Final Year Project  
 - **Domain:** Web Development / Academic Management System  
 
 ---
