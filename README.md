@@ -1,34 +1,20 @@
 # 🎓 SMC EduTrack – College Academic Management System
 
-SMC EduTrack is a web-based **College Academic Management System** developed as a **Final BCA Project** to automate and manage academic activities such as student management, faculty management, subject allocation, and result processing.
+SMC EduTrack is a web-based **College Academic Management System** developed as a **Final BCA Project** to automate academic processes such as student management, faculty management, subject allocation, and result processing.
 
-The system reduces manual work, improves accuracy, and provides secure role-based access for Admin, Faculty, and Students.
-
----
-
-## 📌 Project Description
-
-SMC EduTrack provides separate dashboards for **Admin**, **Faculty**, and **Students** to efficiently manage academic information in a centralized and secure manner.
+The system provides secure, role-based access for **Admin**, **Faculty**, and **Students**.
 
 ---
 
-## 🧩 Modules & Features
+## 🧩 Modules
 
-### 👨‍💼 Admin
-- Manage students and faculty
-- Assign subjects to faculty
-- Manage courses, semesters, and subjects
-
-### 👨‍🏫 Faculty
-- View assigned subjects and classes
-- Enter and update student marks
-
-### 👨‍🎓 Student
-- View academic results
+- **Admin:** Manage students, faculty, courses, and subject assignments  
+- **Faculty:** View assigned subjects and enter student marks  
+- **Student:** View academic results  
 
 ---
 
-## 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
 - **Frontend:** HTML, CSS, Bootstrap, JavaScript  
 - **Backend:** PHP  
@@ -37,21 +23,27 @@ SMC EduTrack provides separate dashboards for **Admin**, **Faculty**, and **Stud
 
 ---
 
-## ⚙️ Installation
+## 📷 Screenshots
+
+### Admin Dashboard
+![Admin Dashboard](screenshots/admin_dashboard.png)
+
+### Faculty Dashboard
+![Faculty Dashboard](screenshots/faculty_dashboard.png)
+
+### Student Dashboard
+![Student Dashboard](screenshots/student_dashboard.png)
+
+---
+
+## ⚙️ Setup
 
 1. Install XAMPP  
-2. Move project folder to `htdocs/`  
-3. Import database using phpMyAdmin  
-4. Start Apache and MySQL  
-5. Run: `http://localhost/SMC-EduTrack/`
+2. Move project to `htdocs/`  
+3. Import database via phpMyAdmin  
+4. Start Apache & MySQL  
+5. Run `http://localhost/SMCEduTrack/edutrack`
 
 ---
 
-## 🎓 Academic Details
-
-- **Project Type:** BCA Final Year Project  
-- **Domain:** Web Development / Academic Management System  
-
----
-
-⭐ Developed for educational purposes.
+🎓 **BCA Final Year Project | Educational Purpose Only**
